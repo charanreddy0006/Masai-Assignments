@@ -1,0 +1,111 @@
+student_id,student_name,batch,topic,attendance,assignment_score,quiz_score,lab_completed,study_hours,feedback_rating,tool_used,api_used
+ST001,  Rakesh P  ,AIML-2603,JSON,PRESENT,-5,-10,yes,8.6,3,VS Code,No
+ST002,Aarav Sharma,AIML-2602,SQL Basics,ABSENT,68,65,no,9.8,4, colab ,yes
+ST003,Harsha Vardhan,AIML-2605,EDA,PRESENT,35,68,No,4.7,3, colab ,Yes
+ST004,Sirisha P,AIML-2605,eda,present,96,27,YES,,3, jupyter ,yes
+ST005,Yashwanth K,AIML-2603,NumPy Basics, Absent ,56,94, Yes ,4.7,4,Jupyter, No 
+ST006,Sneha Iyer,AIML-2602,eda,present,84,21, Yes ,10.7,3, Colab ,No
+ST007,  Riya Kapoor  ,AIML-2601,Pandas Loading,present,45,87,No,6.1,3, colab ,no
+ST008,Keerthi Ramesh,AIML-2601,Loops, Absent ,95,97,No,6.7,3,Jupyter,yes
+ST009,Mohit S,AIML-2604, Python Basics , Absent ,,,No,-5,2, colab ,YES
+ST010,Rahul Mehta,AIML-2601, Python Basics ,PRESENT,98,80,no,1.6,4, colab , No 
+ST011,Sneha Iyer,AIML-2601,Decision Making, Present ,93,55,NO,1.4,1, colab ,No
+ST012,Naveen Reddy,AIML-2601,JSON,present,76,20, Yes ,9.5,5, jupyter , No 
+ST013,  Charan P  ,AIML-2603,NumPy Basics,Present,,87,Yes,1.4,2,Colab,NO
+ST014,Yashwanth K,AIML-2605,Decision Making,Absent,65,58, Yes ,-5,1,VS code,NO
+ST015,Nisha Thomas,AIML-2602,EDA,Absent,94,180,YES,8.1,1,VS code,NO
+ST016,Tanvi C,AIML-2603,Pandas Filtering,PRESENT,57,31,NO,1.0,3,VS code,YES
+ST017,Sumanth G,AIML-2604,pandas loading ,Present,72,36,No,11.2,,Jupyter,No
+ST018,Aditya Menon,AIML-2602,Functions,ABSENT,47,, Yes ,4.3,2, colab ,yes
+ST019,  Gokul N  ,AIML-2601,AI Landscape,PRESENT,54,71,YES,11.6,4,JUPYTER, No 
+ST020,Naveen Reddy,AIML-2601,Functions,absent,80,75,yes,4.9,9,Colab,no
+ST021,Sirisha P,AIML-2602,EDA, Present ,40,59,No,8.5,4,JUPYTER,NO
+ST022,Pooja Gupta,AIML-2603,Matplotlib,Present,99,76,no,5.9,2, colab ,no
+ST023,Harsha Vardhan,AIML-2605,Pandas Grouping,Absent,-5,98,YES,5.3,4, colab ,no
+ST024,  Keerthi Ramesh  ,AIML-2601,Functions, Present ,,35,YES,8.2,4, jupyter ,yes
+ST025,Abhinav T,AIML-2604,pandas loading , Absent ,56,86,yes,5.6,3, jupyter , No 
+ST026,  Naveen Reddy  ,AIML-2602,JSON, Present ,67,46,yes,9.4,,VS Code,YES
+ST027,Siddharth M,AIML-2604,Python Basics,ABSENT,94,82,no,0.8,4, Colab , Yes 
+ST028,Deepika Naidu,AIML-2605,pandas loading ,Present,42,53, Yes ,4.3,4,VS Code,Yes
+ST029,Ananya Rao,AIML-2605,Decision Making,ABSENT,56,,YES,2.0,2,Colab,No
+ST030,Sahil Khan,AIML-2602, APIs and Ethics ,Absent,64,68,yes,1.4,1,VS Code,no
+ST031,Bhavya Jain,AIML-2605,Functions,Present,,21,NO,1.7,4,JUPYTER, Yes 
+ST032,  Riya Kapoor  ,AIML-2605,eda,absent,100,31, No ,9.1,6, Colab , No 
+ST033,Pooja Gupta,AIML-2603,Pandas Loading,ABSENT,49,82,no,6.0,1,Colab,no
+ST034,Manoj Yadav,AIML-2602,Pandas Filtering,ABSENT,95,54, No ,8.8,2, Colab ,NO
+ST035,Tanvi C,AIML-2605, Python Basics ,absent,47,36,No,6.9,4,VS code,YES
+ST036,Aarav Sharma,AIML-2604,AI Landscape, Absent ,86,,NO,7.1,5,Colab,yes
+ST037,Ananya Rao,AIML-2601,pandas loading , Present ,63,59,YES,,1, jupyter , Yes 
+ST038,Nisha Thomas,AIML-2603,Loops,present,77,120,YES,8.6,3,VS Code,yes
+ST039,Rakesh P,AIML-2602,SQL Basics,Absent,34,96,YES,3.8,4,VS code,yes
+ST040,Akash Das,AIML-2604,Loops,Present,,93, Yes ,,3,VS code,NO
+ST041,Siddharth M,AIML-2604, Python Basics , Absent ,87,72,no,10.4,3, Colab ,yes
+ST042,Ishita Bose,AIML-2605,Decision Making, Absent ,76,20,No,5.3,4,VS code,NO
+ST043,  Siddharth M  ,AIML-2603,pandas loading ,present,55,21,no,11.9,1, jupyter , No 
+ST044,Divya Nair,AIML-2603, Python Basics ,absent,95,96, Yes ,10.4,4, jupyter , No 
+ST045,Akash Das,AIML-2601,Pandas Filtering,absent,69,68, No ,2.7,2, jupyter ,yes
+ST046,  Tarun B  ,AIML-2604,Matplotlib, Present ,100,76,yes,0.7,2,Colab, No 
+ST047,Sahil Khan,AIML-2604,eda,Absent,87,,NO,,3,JUPYTER, Yes 
+ST048,  Tanvi C  ,AIML-2601,eda,Absent,30,, No ,5.5,2,VS code,yes
+ST049,Ananya Rao,AIML-2604, APIs and Ethics ,PRESENT,57,79, No ,2.3,5, colab ,yes
+ST050,Riya Kapoor,AIML-2604,Pandas Filtering,PRESENT,98,180, Yes ,0.6,1,VS Code, No 
+ST051,Tanvi C,AIML-2603,JSON,ABSENT,42,25,YES,7.2,3,VS code,YES
+ST052,  Tarun B  ,AIML-2602,pandas loading ,ABSENT,86,63,no,1.4,4,VS code,yes
+ST053,Shruthi B,AIML-2604,Python Basics,absent,58,67,No,0.8,5,JUPYTER, No 
+ST054,Kiran Kumar,AIML-2604,Pandas Filtering, Present ,63,50,No,5.7,5,Colab,yes
+ST055,Tanvi C,AIML-2604,eda,Absent,,76, No ,4.7,3,VS code, Yes 
+ST056,Lakshmi Devi,AIML-2601,APIs and Ethics,Absent,56,46,YES,2.9,3,Colab,Yes
+ST057,  Varun Rao  ,AIML-2602,Data Collections,absent,70,120,yes,,5,Colab,No
+ST058,Kiran Kumar,AIML-2603, Python Basics ,Absent,91,23, No ,5.1,4,Colab,YES
+ST059,Ananya Rao,AIML-2602,Loops,present,92,75,no,10.3,2, Colab ,NO
+ST060,Manoj Yadav,AIML-2604,Matplotlib, Present ,57,80,No,1.6,2, Colab ,NO
+ST061,Aditi Sharma,AIML-2605,Pandas Grouping,Absent,31,65, Yes ,2.3,3, Colab ,NO
+ST062,  Kavya S  ,AIML-2603,SQL basics,PRESENT,,59, Yes ,2.6,1,VS code,Yes
+ST063,Rakesh P,AIML-2601, Python Basics ,PRESENT,72,92, Yes ,2.3,, jupyter , Yes 
+ST064,Ananya Rao,AIML-2604,AI Landscape, Absent ,39,95, Yes ,1.0,1, colab ,no
+ST065,Nisha Thomas,AIML-2603,Pandas Filtering,ABSENT,47,49,No,9.8,1, jupyter ,Yes
+ST066,Deepika Naidu,AIML-2603,SQL basics, Present ,27,99, Yes ,4.7,4,VS code, Yes 
+ST067,  Gayathri M  ,AIML-2603,Pandas Grouping,PRESENT,39,64,NO,7.9,3,VS Code,yes
+ST068,  Varun Rao  ,AIML-2601,File Handling, Absent ,65,, No ,4.0,,JUPYTER, No 
+ST069,  Akash Das  ,AIML-2604,APIs and Ethics,Present,,31,Yes,5.8,1,VS code,NO
+ST070,Yashwanth K,AIML-2603, APIs and Ethics , Absent ,68,180,yes,5.6,3, jupyter ,Yes
+ST071,Madhav Joshi,AIML-2603, APIs and Ethics ,Present,74,97,NO,7.2,4,JUPYTER,No
+ST072,Lavanya D,AIML-2603,pandas loading , Present ,79,,NO,11.4,2,VS Code,yes
+ST073,  Rohit Verma  ,AIML-2603,Functions,Present,48,41,NO,,2, Colab ,yes
+ST074,Sowmya K,AIML-2604,JSON,PRESENT,98,56,no,5.3,5, colab , No 
+ST075,  Sahil Khan  ,AIML-2604,EDA,Absent,59,75,No,9.9,4,VS Code,no
+ST076,Akash Das,AIML-2604,Loops,ABSENT,67,56,YES,10.1,0,JUPYTER,Yes
+ST077,Priya Reddy,AIML-2602,pandas loading , Present ,31,99,No,10.9,, colab ,no
+ST078,Akash Das,AIML-2602,Pandas Filtering, Present ,48,66,Yes,6.3,4, colab ,NO
+ST079,Rahul Mehta,AIML-2603,Pandas Loading,Present,38,62,NO,4.4,4,JUPYTER,No
+ST080,Pranav Kulkarni,AIML-2602,Loops, Absent ,,25,Yes,5.1,1, colab ,no
+ST081,Sanjay Kumar,AIML-2601,eda,ABSENT,76,69,no,8.5,3,JUPYTER,No
+ST082,Abhinav T,AIML-2604, APIs and Ethics ,present,62,74,no,5.6,5,VS Code,NO
+ST083,Lakshmi Devi,AIML-2601,Loops, Present ,-5,66,NO,0.9,3,Colab,yes
+ST084,  Siddharth M  ,AIML-2602, Python Basics ,ABSENT,-5,69, Yes ,9.4,5,VS code,NO
+ST085,Charan P,AIML-2602,Loops, Absent ,65,90,yes,10.3,2,VS Code, No 
+ST086,Akash Das,AIML-2602,Data Collections,PRESENT,72,36, No ,4.1,5,JUPYTER,Yes
+ST087,Tarun B,AIML-2601,Data Collections,ABSENT,69,90,No,11.6,1, jupyter , No 
+ST088,  Gayathri M  ,AIML-2602,File Handling,ABSENT,57,55,YES,6.6,5,VS code,NO
+ST089,Mohit S,AIML-2605,Pandas Grouping,Present,98,93,Yes,6.2,3,Colab,No
+ST090,Sirisha P,AIML-2604,Loops,Present,51,60,yes,11.7,5, Colab , No 
+ST091,Keerthi Ramesh,AIML-2603,APIs and Ethics,PRESENT,74,40,yes,8.8,5,Colab,No
+ST092,Bhavya Jain,AIML-2601,Matplotlib, Absent ,,96,YES,5.9,4,JUPYTER,YES
+ST093,Sahil Khan,AIML-2604,EDA,Present,61,90, Yes ,8.3,4, colab ,Yes
+ST094,Neha Agarwal,AIML-2603,Data Collections,PRESENT,,80, Yes ,10.8,3,Colab,Yes
+ST095,Sowmya K,AIML-2603,SQL basics,ABSENT,72,73, No ,8.8,, jupyter ,no
+ST096,Pranav Kulkarni,AIML-2605,SQL basics,PRESENT,73,24,Yes,2.7,4,Jupyter, No 
+ST097,Tarun B,AIML-2605,AI Landscape,Present,86,42,yes,6.8,3,JUPYTER,YES
+ST098,Sanjay Kumar,AIML-2603,pandas loading ,absent,87,55,YES,6.7,3,VS code,no
+ST099,Divya Nair,AIML-2603,Loops,ABSENT,93,54, No ,7.2,5, jupyter ,no
+ST100,  Manoj Yadav  ,AIML-2604,Pandas Grouping, Absent ,45,80,No,11.6,1,Colab,yes
+ST101,Manoj Yadav,AIML-2601,File Handling, Present ,48,57,yes,,1, Colab ,Yes
+ST102,Neha Agarwal,AIML-2605, Python Basics , Absent ,39,52,yes,,3,VS code, No 
+ST103,Siddharth M,AIML-2605,eda, Present ,37,61, Yes ,,4,VS Code,NO
+ST104,Neha Agarwal,AIML-2605,Python Basics,absent,84,84,NO,9.4,3,Colab,YES
+ST105,Manoj Yadav,AIML-2602,AI Landscape,present,85,47, No ,7.4,5, Colab ,NO
+ST011,Sneha Iyer,AIML-2601,Decision Making, Present ,93,55,NO,1.4,1, colab ,No
+ST012,Naveen Reddy,AIML-2601,JSON,present,76,20, Yes ,9.5,5, jupyter , No 
+ST013,  Charan P  ,AIML-2603,NumPy Basics,Present,,87,Yes,1.4,2,Colab,NO
+ST014,Yashwanth K,AIML-2605,Decision Making,Absent,65,58, Yes ,-5,1,VS code,NO
+ST015,Nisha Thomas,AIML-2602,EDA,Absent,94,180,YES,8.1,1,VS code,NO
