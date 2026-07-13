@@ -90,10 +90,3 @@ This project demonstrates:
 
 ---
 
-## 👨‍💻 Author
-
-**Chakri**
-
-B.Tech CSE (AI & ML)
-
-Learning Python, Machine Learning, SQL, and Data Analytics.
